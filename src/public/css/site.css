@@ -1,0 +1,141 @@
+
+:root {
+    --color-white-100: #FFFFFF;
+    --color-white-50: #FFFFFF80;
+    --color-green-100: #74C69D;
+    --color-dark-100: #212529;
+    --color-dark-75: #212529BF;
+    --color-dark-50: #21252980;
+    --color-dark-25: #21252940;
+
+    --color-red-100: #ff0000;
+    --color-red-75: #ff0000BF;
+    --color-red-50: #ff000080;
+    --color-red-25: #ff000040;
+
+    font-family: 'Crimson Text', Arial, sans-serif;
+    font-size: 16px;
+    line-height: 125%;
+}
+
+.heading-1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+/* .heading-1-black {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: var(--color-dark-100);
+    margin: 0;
+} */
+.heading-1-white {
+    color: var(--color-white-100);
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin: 0;
+}
+
+
+.heading-2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.heading-3 {
+    font-size: 1.75rem;
+    font-weight: bold;
+}
+.heading-4 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.heading-5 {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+.heading-6 {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+
+.sub-heading-regular {
+    font-family: 'Work Sans', Arial, sans-serif;
+    font-size: 1.25rem;
+    font-weight: 400;
+    text-align: center;
+}
+
+.body-text-regular {
+    font-family: 'Work Sans', Arial, sans-serif;
+    font-size: 0.9375rem;
+    font-weight: 400;
+}
+.body-tex-bold {
+    font-family: 'Work Sans', Arial, sans-serif;
+    font-size: 0.9375rem;
+    font-weight: bold;
+}
+
+.body-regular-text-dark {
+    font-family: 'Work Sans', Arial, sans-serif;
+    font-size: 0.9375rem;
+    font-weight: 400;
+    color: var(--color-dark-50);
+}
+
+.body-regular-text-black {
+    font-family: 'Work Sans', Arial, sans-serif;
+    font-size: 0.9375rem;
+    font-weight: 400;
+    color: var(--color-dark-100);
+}
+
+.body-regular-text-white {
+    font-family: 'Work Sans', Arial, sans-serif;
+    font-size: 0.9375rem;
+    font-weight:400;
+    color: var(--color-white-100);
+}
+
+.label {
+    font-family: 'Work Sans', Arial, sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+.label-green {
+    font-family: 'Work Sans', Arial, sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: var(--color-green-100);
+}
+
+.label-white {
+    font-family: 'Work Sans', Arial, sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: var(--color-white-100);
+}
+
+.price-card-work-sans-bold-40 {
+    font-family: 'Work Sans', Arial, sans-serif;
+    font-size: 2.5rem;
+    font-weight: 900;
+    color: var(--color-dark-100);
+    margin-bottom: 20px;
+}
+
+.logo {
+    font-family: 'Work Sans', Arial, sans-serif;
+    color: var(--color-white-100);
+    font-size: 2.5rem;
+    font-weight: 500;
+    width: 99px;
+    letter-spacing: 0.5px;
+}

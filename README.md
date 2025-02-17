@@ -1,1 +1,2 @@
-# myProjectF
+# myFirstFigmaResponsiveDesign
+for learning purposes

@@ -1,0 +1,26 @@
+{
+  "name": "myfirstfigmaresponsivedesign",
+  "version": "1.0.0",
+  "description": "for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RadostinStAtanasov/myFirstFigmaResponsiveDesign.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RadostinStAtanasov/myFirstFigmaResponsiveDesign/issues"
+  },
+  "homepage": "https://github.com/RadostinStAtanasov/myFirstFigmaResponsiveDesign#readme",
+  "devDependencies": {
+    "vite": "^6.1.0"
+  },
+  "dependencies": {
+    "path": "^0.12.7",
+    "yarn": "^1.22.22"
+  }
+}
